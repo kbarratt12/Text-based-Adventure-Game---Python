@@ -1,0 +1,1 @@
+This contains 2 files which make up the game I coded during my Intro to Programming class. The scenario file contains the story lines and runs everything. The commands files contains the indepth information which allows the scenario file to run. There are multiple character archetypes, customization and a dynamic story with multiple endings to the game. 
