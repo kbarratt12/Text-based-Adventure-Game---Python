@@ -1,5 +1,3 @@
-#Steven Dang - sdang4@student.gsu.edu
-#Rachit Kowatra - rkowatra1@student.gsu.edu
 #Malachi Barratt - mbarratt2@student.gsu.edu
 import commands
 
