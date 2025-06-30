@@ -14,7 +14,7 @@ This project is a collaborative text-based adventure game developed using Python
 - Turn-based combat system using random dice rolls
 - Karma tracking that influences game ending
 - Four main battle scenarios and three unique endings
-- Modular architecture across two Python files
+- Two-file design separating game logic and utility functions
 
 ## File Descriptions
 | File | Description |
